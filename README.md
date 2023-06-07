@@ -1,2 +1,1 @@
-# holbertonschool-shell
-Holberton shell project
+hello world
