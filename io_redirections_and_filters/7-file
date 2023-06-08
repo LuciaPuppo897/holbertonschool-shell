@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Best School" > "\*\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+echo "Best School" > "\*\\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+~ #- [Got]\*\*\'Best(11 chars lon)[Expected]\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)(39 chars long) / [Got]Best School School\'\*$\?\*\*\*\*\*:)(38 chars long)[Expected]Best School 
