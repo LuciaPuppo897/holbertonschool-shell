@@ -1,2 +1,2 @@
 #!/bin/bash
-if user=guillame then chown vincent hello 
+chown --from=guillaume vincent hellO 
