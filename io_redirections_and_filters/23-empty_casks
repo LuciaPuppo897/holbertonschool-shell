@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -A| find . -type d - size -1KB -type f - size -1KB | cut -d ":" -f  3,6 \n 
+cat -A| find . -type d -type f | cut -d ":" -f  3,6 \n 
